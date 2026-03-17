@@ -20,7 +20,7 @@ This project analyzes Facebook food-related posts to understand customer engagem
 Contains Facebook food posts with engagement metrics such as likes, comments, shares, and reactions.
 
 ## Team
-- Subrat Kumar Majhi (Team Lead)
+- Subrat Kumar Majhi 
 - Sravanthi Boreddy
 - Magesh K B
 - Navya Geetha Butti
